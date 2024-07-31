@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">firstapp</string>
     <string name="email" translatable="false">inicio</string>
-    <string name="Login" translatable="false">Add login</string>
+    <string name="Login">Add login</string>
 </resources>
